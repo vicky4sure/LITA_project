@@ -2,6 +2,16 @@
 ### Project overview
 This data analysis project aims to generate insight
 
+[Project overview](#project-overview)
+
+Data sources
+
+Tools used
+
+Data cleaning and preparation
+
+Exploratory data analysis
+
 ### Data sources
 The primary source of Data used here is Data sales.csv and this is an open source data
 ---
@@ -33,3 +43,10 @@ In the initial phase of the data cleaning and preparation,we perform the followi
      SELECT*FROM TABLE 1
      WHERE CONDITION =TRUE
      ```
+    ### Data visualization
+   |heading1|heading2|heading3|
+   |-------|---------|--------|
+   |Table1|Table2|Table3|
+
+
+   

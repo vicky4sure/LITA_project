@@ -10,6 +10,8 @@ Tools used
 
 Data cleaning and preparation
 
+[Data analysis](#data-analysis)
+
 Exploratory data analysis
 
 ### Data sources

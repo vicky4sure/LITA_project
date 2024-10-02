@@ -13,7 +13,9 @@ Data cleaning and preparation
 Exploratory data analysis
 
 ### Project overview
-This data analysis project aims to generate insight into sales by analysing performance of teh Ecommerce project over the past year.By
+This data analysis project aims to generate insight into sales performance of the E commerce project over the past year. By analysing 
+the various parameters in teh data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around
+our data from the insights gotten and 
 
 
 

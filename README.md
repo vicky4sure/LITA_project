@@ -51,6 +51,13 @@ In the initial phase of the data cleaning and preparation,we perform the followi
      WHERE CONDITION =TRUE
      ```
     ### Data visualization
+
+
+![vicky](https://github.com/user-attachments/assets/848fb12c-c66e-4745-839c-b8e15e47d294)
+
+
+
+   
    |heading1|heading2|heading3|
    |-------|---------|--------|
    |Table1|Table2|Table3|

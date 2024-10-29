@@ -23,7 +23,7 @@ our data from the insights gotten and to know the best performance from our data
 The primary source of Data used here is Data sales.csv and this is an open source data
 ---
 ### Tools used
-- Microsoft Excel [Download Here](https://www.microsoft.com)
+- Microsoft Excel [Download Here](https://pivot table files.xls)
    1. for data cleaning
    2. for analysis
    3. for data visualization
